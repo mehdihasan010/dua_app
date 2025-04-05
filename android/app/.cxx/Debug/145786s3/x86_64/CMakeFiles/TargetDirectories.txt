@@ -1,0 +1,2 @@
+/Users/mehdi/Movies/dua_app-ui-mehdi/android/app/.cxx/Debug/145786s3/x86_64/CMakeFiles/edit_cache.dir
+/Users/mehdi/Movies/dua_app-ui-mehdi/android/app/.cxx/Debug/145786s3/x86_64/CMakeFiles/rebuild_cache.dir
